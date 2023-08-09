@@ -1,0 +1,24 @@
+table, th, td {
+    border: 1px solid black;
+}
+body {
+background-image: url("phone.png");
+}
+h1 { 
+    color: red;}
+h2 { background-color: turquoise;}
+p {
+    color: brown;
+    font-size: x-large;
+
+}
+.para1 {
+    text-align: center;
+    color: blue;
+}
+.row {
+    background-color: lightcoral;
+    width: 25%;
+    height: 200px;
+    padding: 20px;}
+
