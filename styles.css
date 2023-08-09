@@ -70,7 +70,9 @@ h3 {
     }
     
     .container {
+      margin: auto;
       padding: 40px;
+      max-width: 400px;
     }
     
     .clearfix::after {
